@@ -24,6 +24,12 @@ body {
     border-radius: 20px;
     overflow: hidden;
     position: relative;
+<<<<<<< HEAD
+=======
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+>>>>>>> d1ea797e91ba3d246c6a68a7a43cc46c8d3d5929
 
 }
 

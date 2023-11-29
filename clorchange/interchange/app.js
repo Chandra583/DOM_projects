@@ -48,7 +48,7 @@ btn.forEach(function (btns) {
       case "Green":
         body.style.backgroundColor = e.target.id;
         result.innerText = `you clicked on ${e.target.id}`;
-        result.classList.remove("bl");
+        // result.classList.remove("bl");
         break;
       case "yellow":
         body.style.backgroundColor = e.target.id;

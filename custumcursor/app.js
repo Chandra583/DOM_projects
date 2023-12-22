@@ -5,6 +5,7 @@ let one = document.querySelector("h1");
 main.addEventListener("mousemove", function (dets) {
   crs.style.left = dets.x + "px";
   crs.style.top = dets.y + "px";
+  console.log(dets);
 });
 
 one.addEventListener("mousemove", function (dets) {
